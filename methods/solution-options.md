@@ -20,3 +20,4 @@ Ensure the business objectives, requirements and constraints are understood. 
 - Capture the decision in the architecture decision log. 
 
 ## Example Options Comparison Matrix
+![alt text](images/solution-options-image.png "Solution Options Comparison Matrix")
